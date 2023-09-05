@@ -1,0 +1,91 @@
+body{
+  background-image: linear-gradient(to right, rgb(237, 205, 210),rgb(217, 224, 241));
+}
+
+.form{
+  padding-left:20px;
+}
+
+
+.h2{
+  font-family:'Times New Roman', Times, serif;
+  font-weight: bold;
+  background-color: rgba(148, 160, 211, 0.489);
+  border-radius:40px;
+  padding-left:30px;
+  
+}
+
+.q{
+  margin-left: 18px;
+}
+.title input{
+  margin: 10px;
+}
+
+.title{
+  font-family:Georgia, 'Times New Roman', Times, serif;
+  height: 25px;
+  width:50%;
+  margin: 20px;
+  text-align: center;
+  display:block;
+  
+}
+
+.problem{
+  font-family:Georgia, 'Times New Roman', Times, serif;
+  width:50%;
+  height:350px;
+  margin: 20px;
+  font-size:20px;
+  text-align: center;
+  
+}
+
+.tags{
+  font-family:Georgia, 'Times New Roman', Times, serif;
+  width:50%;
+  height: 25px;
+  margin: 20px;
+  text-align: center;
+  
+}
+
+.abstract{
+  font-family:Georgia, 'Times New Roman', Times, serif;
+  width:50%;
+  height:150px;
+  margin: 20px;
+  font-size:20px;
+  text-align: center;
+  display:block;
+  
+}
+
+.text{
+  font-family:Georgia, 'Times New Roman', Times, serif;
+  width:50%;
+  height:350px;
+  margin: 20px;
+  font-size:20px;
+  text-align: center;
+  display:block;
+  
+}
+
+.tutorials{
+  font-family:Georgia, 'Times New Roman', Times, serif;
+  margin-top: 50px;
+  display:inline-block;
+  margin-left:0px;
+}
+
+.articles{
+  font-family:Georgia, 'Times New Roman', Times, serif;
+  margin-top: 50px;
+  margin-left: 30px;
+  display:inline-block;
+  
+}
+
